@@ -33,6 +33,7 @@ class MainViewController: UIViewController {
         
         createDataSource()
         reloadData()
+        print("test")
     }
     // MARK: - setupViews
 
